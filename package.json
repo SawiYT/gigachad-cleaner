@@ -1,0 +1,28 @@
+{
+	"name": "gigachad-cleaner",
+	"version": "1.0.0",
+	"main": "main.js",
+	"scripts": {
+		"start": "electron-forge start",
+		"dev": "nodemon --exec electron .",
+		"package": "electron-forge package",
+		"make": "electron-forge make"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"@electron-forge/cli": "^7.4.0",
+		"electron": "^31.0.2",
+		"nodemon": "^3.1.4"
+	},
+	"dependencies": {
+		"@electron-toolkit/utils": "^3.0.0",
+		"imagemin": "^7.0.1",
+		"imagemin-jpegtran": "^7.0.0",
+		"imagemin-mozjpeg": "^7.0.0",
+		"imagemin-pngquant": "^7.0.0",
+		"slash": "^2.0.0"
+	}
+}
