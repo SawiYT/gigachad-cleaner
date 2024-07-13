@@ -2,7 +2,7 @@
 
 Gigachad Cleaner is a retro-styled application built with Electron that helps you reduce the size of your PNG and JPG files by adjusting the quality based on a customizable slider. Written in HTML and CSS, this tool offers an intuitive interface for managing file sizes without compromising too much on quality. The application runs on macOS, Linux, and Windows.
 
-<img src="path/to/your/image.jpg" style="width: 100%;">
+<img src="assets/images/gigachad cleaner.png" style="width: 100%;">
 
 ## 💜 Features
 
