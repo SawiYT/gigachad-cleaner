@@ -13,13 +13,6 @@ Gigachad Cleaner is a retro-styled application built with Electron that helps yo
 - Cross-platform compatibility (macOS, Linux, Windows)
 - Supports PNG and JPG files only
 
-## 📸 Project Screenshots
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="path/to/your/image1.jpg" style="width: 45%;">
-    <img src="path/to/your/image2.jpg" style="width: 45%;">
-</div>
-
 ## ⬇️ Download Now!
 
 To use Gigachad Cleaner, follow these steps:
