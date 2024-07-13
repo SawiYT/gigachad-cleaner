@@ -41,7 +41,7 @@ Gigachad Cleaner is a cross-platform tool built with Electron that allows you to
 
 ### Does Gigachad Cleaner support all file types?
 
-Gigachad Cleaner supports PNG and JPG files only. For a detailed list of features, please refer to the documentation on our [GitHub page](https://github.com/floyare/gigachad-cleaner).
+Gigachad Cleaner supports PNG and JPG files only. For a detailed list of features, please refer to the documentation on our [GitHub page](https://github.com/SawiYT/gigachad-cleaner).
 
 ### Can I run Gigachad Cleaner on any device?
 
