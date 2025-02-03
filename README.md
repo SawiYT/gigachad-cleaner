@@ -30,7 +30,3 @@ Yes, Gigachad Cleaner is designed to be cross-platform compatible and can be run
 ### Do I need to install anything to use Gigachad Cleaner?
 
 Yes, you need to install the necessary dependencies using `npm install` and build the application using `npm run build` before you can start using Gigachad Cleaner. Note that Gigachad Cleaner does not work directly in the browser; you need to run the application on your local machine.
-
----
-
-For more information and updates, visit our [GitHub repository](https://github.com/floyare/gigachad-cleaner).
